@@ -35,7 +35,7 @@ def main():
     disp.update()
 
     # Run the poller
-    e.run()mouse
+    e.run()
 
     # Prevent the main app from exiting
     while True:
